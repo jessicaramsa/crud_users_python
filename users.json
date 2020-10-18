@@ -1,0 +1,26 @@
+[
+  {
+    "username": "jessicaramsa",
+    "name": "Jéssica Ramírez",
+    "password": "1234",
+    "role": "Administrador"
+  },
+  {
+    "username": "test",
+    "name": "Carmen San Diego",
+    "password": "5678",
+    "role": "Operativo"
+  },
+  {
+    "username": "test2",
+    "name": "Soy un test",
+    "password": "2443",
+    "role": "Usuario"
+  },
+  {
+    "username": "123",
+    "name": "123",
+    "password": "4321",
+    "role": "Administrador"
+  }
+]
