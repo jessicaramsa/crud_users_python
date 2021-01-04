@@ -8,8 +8,8 @@ class Application(tk.Frame):
         super().__init__(master)
         self.master = master
         self.pack()
-        # self.create_widgets_login()
-        self.show_users()
+        self.create_widgets_login()
+        # self.show_users()
 
     def validate_password(self, password, label):
         try:
